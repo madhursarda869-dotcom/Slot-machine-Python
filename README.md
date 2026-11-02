@@ -1,1 +1,1 @@
-sample
+This is a slot machine code in python
